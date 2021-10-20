@@ -1,10 +1,10 @@
 # Small People 🌏
 
-**[Small People](https://smallpeople.vercel.app/)** is a weekend hack inspired by [this Instagram post](https://www.instagram.com/p/CVETyGQK2c-/). It's an customizable little sandbox world with small people and their small conversations. Play with it at [smallpeople.vercel.app](https://smallpeople.vercel.app) or check out the [gallery](#small-people-gallery) below for some ideas.
+**[Small People](https://smallpeople.vercel.app/)** is a weekend hack inspired by [this Instagram post](https://www.instagram.com/p/CVETyGQK2c-/). It's an customizable little sandbox world with small people and their small conversations. Play with it at [smallpeople.vercel.app](https://smallpeople.vercel.app).
 
 Small People is written entirely in JavaScript. It renders everything using basic 2D Canvas APIs, and uses a custom algorithm to generate humans and their shadows.
 
-![Tiny human](img/cover.png)
+![Tiny human](https://github.com/theandrebass/smallpeople/blob/main/img/facebook.png)
 
 ## Build and deploy
 
